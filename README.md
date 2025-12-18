@@ -10,6 +10,7 @@
 ## 📑 Sumário Executivo
 
 **Menu Digital Pro** é um sistema full-stack completo de cardápio digital interativo para restaurantes, pizzarias e estabelecimentos de food delivery. Inclui painel administrativo, carrinho de compras, checkout, avaliações de produtos e gerenciamento de pedidos.
+<img width="1402" height="755" alt="image" src="https://github.com/user-attachments/assets/735c4504-4c29-41e1-8542-6efe3991e48b" />
 
 ---
 
